@@ -51,6 +51,6 @@ For more of my projects, visit the [Projects](https://github.com/aniket?tab=repo
 
 Feel free to reach out for collaboration or inquiries:
 
-- **Email**: [your-email@example.com](mailto:aniketkr20012019@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aniketkumarak47/)
-- **GitHub**: [github.com/aniket](https://github.com/aniketak47)
+- **Email**: [aniketkr20012019@gmail.com](mailto:aniketkr20012019@gmail.com)
+- **LinkedIn**: [linkedin.com/in/aniketkumarak47](https://www.linkedin.com/in/aniketkumarak47/)
+- **GitHub**: [github.com/aniketak47](https://github.com/aniketak47)
